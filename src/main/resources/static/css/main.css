@@ -3,6 +3,8 @@ p {
     font-size: 50px;
 }
 
-body {
-    /*background: url("/image/bg.png") no-repeat center center fixed;*/
+html {
+    background-image: url('../images/bg.png');
+    background-position: top;
+    background-repeat: no-repeat;
 }
